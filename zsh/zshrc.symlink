@@ -3,6 +3,7 @@
 #
 export PROJECTS=$HOME/Code
 export ZSH=$PROJECTS/dotfiles
+export DOT_FILES=$ZSH
 
 # standard editor
 export EDITOR="code"
