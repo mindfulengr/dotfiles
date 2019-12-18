@@ -84,4 +84,4 @@ echo ''
 generate_gitconfig
 install_dotfiles
 echo ''
-echo '  Installed!'
+echo 'Installed!'
