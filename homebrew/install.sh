@@ -14,7 +14,6 @@ then
   brew doctor
 fi
 
-# Install homebrew packages
-brew install node
-brew cask install visual-studio-code google-chrome firefox
+# Install common applications
+brew cask install visual-studio-code google-chrome firefox evernote
 brew cleanup
