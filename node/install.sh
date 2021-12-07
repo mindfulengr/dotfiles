@@ -7,8 +7,8 @@
 # Check for node
 if test ! $(which node)
 then
-  brew install node
+  apt install node
 fi
 
 # Install node packages
-npm install @vue/cli
+npm install -g @vue/cli

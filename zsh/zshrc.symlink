@@ -1,12 +1,12 @@
 #
 # File locations
 #
-export PROJECTS=$HOME/Code
+export PROJECTS=$HOME/src
 export ZSH=$PROJECTS/dotfiles
 export DOT_FILES=$ZSH
 
 # standard editor
-export EDITOR="code"
+export EDITOR="vi"
 
 # locale
 export LANG=en_US.UTF-8

@@ -6,3 +6,16 @@ alias c="cd $PROJECTS/$1"
 alias h="cd ~/$1"
 alias la="ls -lah"
 alias ll="ls -lh"
+
+# tools
+alias obs='~/bin/Obsidian-0.11.9.AppImage'
+alias save='./save.sh $1'
+alias ledger='/home/paul/bin/ledger-live-desktop-*'
+alias gr='gradle $1'
+
+# Kubernetes
+alias k='kubectl'
+alias h='helm'
+alias mk='minikube'
+alias ks='kubens'
+alias kx='kubectx'
